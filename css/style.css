@@ -14,3 +14,5 @@
 .footer-brand .site-logo{filter:brightness(0) invert(96%) sepia(9%) saturate(264%) hue-rotate(344deg)}
 @media(max-width:1199.98px) and (min-width:992px){.brand .logo-window{width:195px}.navbar .nav-link{padding-left:9px!important;padding-right:9px!important}.navbar .btn{padding-left:14px;padding-right:14px}}
 @media(max-width:575.98px){.brand .logo-window{width:190px}.navbar{padding:7px 0}.footer-brand .logo-window{width:220px}}
+
+.navbar .btn[href^="tel:"]{white-space:nowrap;font-size:11px}.call-primary{font-size:14px;letter-spacing:.06em}.mobile-call-bar{display:none}@media(max-width:991.98px){body{padding-bottom:58px}.mobile-call-bar{display:block;position:fixed;bottom:0;left:0;right:0;z-index:1030;text-align:center;padding:16px 10px;background:#34463d;color:#fff;text-decoration:none;font-size:14px;font-weight:600;box-shadow:0 -2px 12px rgba(0,0,0,.15)}}
